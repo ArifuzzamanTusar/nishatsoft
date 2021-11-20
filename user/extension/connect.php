@@ -1,5 +1,5 @@
 <?php
-    $db_host = "51.79.225.50";
+    $db_host = "localhost";
 	$db_user = "arifuzza_abolirez_soft";
 	$db_pass = "abolirez_soft";
 	$db_name = "arifuzza_abolirez_soft";
